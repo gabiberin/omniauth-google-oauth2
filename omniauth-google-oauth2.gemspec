@@ -22,7 +22,7 @@ Gem::Specification.new do |gem|
 
   gem.add_runtime_dependency 'jwt', '~> 1.5'
   gem.add_runtime_dependency 'oauth2', '~> 1.1'
-  gem.add_runtime_dependency 'omniauth', '~> 2.0'
+  gem.add_runtime_dependency 'omniauth', '~> 1.2'
   gem.add_runtime_dependency 'omniauth-oauth2', '~> 1.3.0'
 
   gem.add_development_dependency 'rake', '~> 12.0'
